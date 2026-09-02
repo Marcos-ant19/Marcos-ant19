@@ -1,17 +1,19 @@
-## Olá
+### Olá, eu sou o Marcos Antônio 👋
 
+- 🔭 Atualmente desenvolvendo projetos em **C** e **Java**
+- 🌱 Aprofundando estudos em **Estruturas de Dados**, **Bancos de Dados (SQL)** e **Web**
+- 💬 Me pergunte sobre algoritmos, modelagem relacional ou desenvolvimento
+- 📫 Como me encontrar: [LinkedIn](https://linkedin.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-ant19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-ant19&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Marcos-ant19&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Marcos-ant19&theme=tokyonight&no-frame=true&margin-w=4" alt="Trophies" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,mysql,git,linux,vscode" />
+</p>
