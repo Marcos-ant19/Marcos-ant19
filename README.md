@@ -9,7 +9,7 @@ Graduando em Ciência da Computação com foco em desenvolvimento de software, a
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,mysql" />
 </p>
 
 <div style="display: inline_block"><br>
